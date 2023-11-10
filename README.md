@@ -1,4 +1,4 @@
-# This Is the final update for 1.0. **The 2.0 Release Date Is To Be Announced**
+# For every head you cut off, more will take it's place.
 
 
 ![Logo](https://i.imgur.com/5usXJsj.png)
