@@ -1,1 +1,3 @@
-*.html funnycat27
+index.html funnycat27
+home.html funnycat27
+Bitlife.html funnycat27
