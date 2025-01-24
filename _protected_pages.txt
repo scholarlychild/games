@@ -1,1 +1,1 @@
-index.html funnycat27
+*.html funnycat27
