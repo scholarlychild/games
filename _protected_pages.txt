@@ -1,2 +1,1 @@
 *.html funnycat27
-*play* funnycat27
